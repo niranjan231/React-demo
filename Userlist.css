@@ -1,0 +1,11 @@
+.inner{
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(77, 34, 13);
+
+}

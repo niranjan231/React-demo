@@ -1,0 +1,21 @@
+.itemcard{
+    width: 250px;
+    border: 100px;
+    height: 435px;
+  padding: 20px;
+    border-color: black;
+   
+    background-color:rgb(165, 116, 42)
+}
+img{
+    height: 280px;
+    width: 200px;
+    background-size: cover;
+    }
+    .btn{
+        height: 50px;
+        width: 220px;
+        color: black;
+        background-color: rgb(220, 117, 20);
+    }
+   

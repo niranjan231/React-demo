@@ -1,0 +1,10 @@
+.card{
+    width: 18rem;
+    border: 2px solid black;
+    background-color:#1e0899;
+    color: white;
+}
+img{
+   height: 150px;
+   width: 150px;
+}

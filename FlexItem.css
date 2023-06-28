@@ -1,0 +1,40 @@
+.inner{
+    background-color: yellow;
+   flex-direction: row-reverse;
+}
+.first{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color:green
+}
+.second{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: red
+}
+.third{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: pink
+}
+.four{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: magenta
+}
+.five{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: chocolate
+}
+.six{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: green
+}

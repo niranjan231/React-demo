@@ -1,0 +1,12 @@
+
+
+.inner{
+    background-color:red;
+    flex-direction: row;
+   }
+   input{
+       text-align: center;
+      color: black;
+      width: 50px;
+   }
+   

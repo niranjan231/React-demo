@@ -1,0 +1,26 @@
+img{
+    height: 300px;
+    width: 250px;
+    background-size: cover;
+    }
+    .btn{
+        height: 50px;
+        width: 250px;
+        color: black;
+        background-color: rgb(220, 117, 20);
+    }
+    .itemcard{
+        width: 250px;
+        border: 10px;
+        border-color: black;
+        background-color:rgb(165, 116, 42)
+        
+    }
+    /* .wapper{
+        font-size: 25px;
+      margin: 50px;
+    }
+    .inner{
+        font-size: 15px;
+      background-color: blue;
+    } */

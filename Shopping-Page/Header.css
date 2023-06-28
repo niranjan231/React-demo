@@ -1,0 +1,70 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(50, 45, 38, 0.903);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.head{
+    display: flex;
+    align-items: center;
+    
+}
+h4{
+    font-weight: 700;
+}
+.inp-search{
+    width: 500px;
+    height: 35px;
+    align-items: center;
+    border: 2px solid rgb(233, 89, 32);
+    
+}
+.image1{
+    height: 30px;
+    width: 30px;
+}
+.image2{
+    height: 30px;
+    width: 30px;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+p{
+    font-weight: 700;
+}
+
+.panel{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0.517);
+    height: 50px;
+   
+  
+}
+
+
+.card-content{
+    display: flex;
+    margin-top: 15px;
+    flex-wrap: wrap;
+   justify-content: space-between;
+  
+}
+.first-content{
+    display: flex;
+    margin-top: 15px;
+    flex-wrap: wrap;
+   justify-content: space-between;
+  
+}
